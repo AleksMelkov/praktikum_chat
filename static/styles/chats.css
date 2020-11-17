@@ -106,7 +106,7 @@ body {
     margin-top: 0;
 }
 .chat-list__element:hover {
-    background: rgba(255,255,255,.6);
+    background: rgba(0,0,0,.03);
 }
 .chat-list__element_active {
     background: rgba(175, 245, 139, 0.3);
